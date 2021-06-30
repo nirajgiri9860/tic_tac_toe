@@ -309,7 +309,8 @@ int replay(void){
      if(yes=='Y' || yes=='y'){
         fflush(stdin);
         return 1;
-     }else{
+     }
+     else{
          return 0;
      }
 }
