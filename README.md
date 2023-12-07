@@ -1,3 +1,3 @@
-# tic_tac_toe
+# Tic Tac Toe
 
-A simple tic tac toe multiplayer game using c++
+Tic tac toe game made using c++
